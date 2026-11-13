@@ -1,5 +1,6 @@
 # 10. Daily pitch drafts
 
+**Level:** Advanced (extra paid tools, GitHub or a client setup)
 **What it does:** Drafts outbound pitches to reporters for your research and content, with follow-ups, a strict no-duplicates rule and a daily cap. You send from a draft card.
 **Schedule:** `CRON_TZ={{YOUR_TIMEZONE}} 53 8 * * 1-5` (weekdays, about 9 AM)
 **Posts:** A draft card and one short line, when there's budget.

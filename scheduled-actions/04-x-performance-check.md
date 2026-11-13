@@ -1,5 +1,6 @@
 # 04. X performance check
 
+**Level:** Advanced (extra paid tools, GitHub or a client setup)
 **What it does:** Pulls your X numbers from your scheduler, updates the performance log and tracker sheet, and messages you only on a clear finding.
 **Schedule:** `CRON_TZ={{YOUR_TIMEZONE}} 23 10 * * 1` (Mondays, 10:23 AM)
 **Posts:** Only on a clear finding.

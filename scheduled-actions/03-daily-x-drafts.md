@@ -1,5 +1,6 @@
 # 03. Daily X drafts
 
+**Level:** Advanced (extra paid tools, GitHub or a client setup)
 **What it does:** Writes 2 to 4 X drafts for tomorrow from your own material, emails them to you, posts them in the chat and logs them. Nothing posts until you pick.
 **Schedule:** `CRON_TZ={{YOUR_TIMEZONE}} 17 16 * * *` (daily, 4:17 PM)
 **Posts:** Every day, with the drafts.

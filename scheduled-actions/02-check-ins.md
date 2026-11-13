@@ -1,5 +1,6 @@
 # 02. Check-ins
 
+**Level:** Beginner (core connectors only)
 **What it does:** Looks at the last 3 hours and the next 3 hours, and messages you only when something needs you.
 **Schedule:** Built in. Every 3 hours outside your quiet hours (mine: about 8, 11, 2, 5 and 8).
 **Posts:** Only when something needs you.

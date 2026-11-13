@@ -1,5 +1,6 @@
 # 17. Client industry news alerts
 
+**Level:** Intermediate (one extra common tool or more tuning)
 **What it does:** Scans daily for news in a client's industry that they should publish about first (breaches, recalls, rule changes, lawsuits), and posts an alert with sources and a suggested next step. Research only.
 **Schedule:** `CRON_TZ={{YOUR_TIMEZONE}} 42 6 * * *` (daily, 6:42 AM)
 **Posts:** Only when something new and meaningful turns up.

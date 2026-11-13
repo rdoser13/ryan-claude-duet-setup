@@ -1,5 +1,6 @@
 # 09. Reporter request scan
 
+**Level:** Advanced (extra paid tools, GitHub or a client setup)
 **What it does:** Finds journalist and podcast requests in your inbox that fit your expertise and saves reply drafts in Gmail. Nothing sends.
 **Schedule:** `CRON_TZ={{YOUR_TIMEZONE}} 23 11 * * 1-5` (weekdays, 11:23 AM)
 **Posts:** Only when it saved drafts.

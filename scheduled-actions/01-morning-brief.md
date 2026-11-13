@@ -1,5 +1,6 @@
 # 01. Morning brief
 
+**Level:** Beginner (core connectors only)
 **What it does:** Reads your mail, calendar, tasks and notes each morning and sends one summary of what matters today.
 **Schedule:** Built in. Runs when your quiet hours end (mine is around 8:30 AM).
 **Posts:** Every morning.

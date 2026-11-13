@@ -2,6 +2,8 @@
 
 This is my real Claude Duet setup, packaged so you can copy it with your own context.
 
+> **Brand new to Claude Duet? Open [START-HERE.md](START-HERE.md) first.** It gets you running in under an hour with 4 beginner scheduled actions. Unsure what a word means? See the [glossary](guide/00-glossary.md).
+
 It covers the main chat, memory, channels, the Tasks page, and every scheduled action I run. Each scheduled action comes as a fill-in-the-blanks prompt you can paste into your own main chat.
 
 > **VIP members only.** Please don't share this repo, post the link publicly, or copy it into a public site. Keeping it quiet keeps it useful for the people inside the community.
@@ -21,8 +23,9 @@ No coding needed. A GitHub account helps for backups (step 7), but it's optional
 
 | Folder | What's inside |
 |---|---|
-| `guide/` | 10 numbered steps, from first login to a full system |
-| `scheduled-actions/` | 24 scheduled actions, one file each, with the full prompt as a template |
+| `START-HERE.md` | Day one for beginners: 5 apps, a short intro prompt, 4 starter actions |
+| `guide/` | A glossary plus 10 numbered steps, from first login to a full system |
+| `scheduled-actions/` | 24 scheduled actions, one file each, tagged Beginner, Intermediate or Advanced, with the full prompt as a template |
 | `templates/` | Memory template, scheduled-tasks tracker, style guides, log files |
 
 ## Quick start (60 minutes)
@@ -38,6 +41,7 @@ Don't turn on all 24 on day one. Each one costs usage, and each one needs tuning
 
 ## The guide
 
+0. [Glossary](guide/00-glossary.md)
 1. [Accounts and connectors](guide/01-accounts-and-connectors.md)
 2. [Main chat and memory](guide/02-main-chat-and-memory.md)
 3. [Channels and groups](guide/03-channels-and-groups.md)

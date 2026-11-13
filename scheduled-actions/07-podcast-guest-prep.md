@@ -1,5 +1,6 @@
 # 07. Podcast guest prep
 
+**Level:** Intermediate (one extra common tool or more tuning)
 **What it does:** For each guest recording this week, researches the guest, writes a questions Doc in your template and sets up the recording session with no invites. Waits for your yes before touching the calendar invite.
 **Schedule:** `CRON_TZ={{YOUR_TIMEZONE}} 13 13 * * 1` (Mondays, 1:13 PM). Weekly is plenty. Mine started daily: "Daily is overkill."
 **Posts:** One message per guest. Nothing on weeks with no guests.

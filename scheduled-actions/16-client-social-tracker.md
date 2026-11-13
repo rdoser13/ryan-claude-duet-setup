@@ -1,5 +1,6 @@
 # 16. Client social tracker
 
+**Level:** Advanced (extra paid tools, GitHub or a client setup)
 **What it does:** Every Monday, refreshes a client's social media tracker sheet, recomputes patterns, and messages you only on a clear finding.
 **Schedule:** `CRON_TZ={{YOUR_TIMEZONE}} 47 11 * * 1` (Mondays, 11:47 AM)
 **Posts:** Only on a clear new finding.

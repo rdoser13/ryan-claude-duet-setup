@@ -1,5 +1,6 @@
 # 08. Newsletter scorecard
 
+**Level:** Intermediate (one extra common tool or more tuning)
 **What it does:** Pulls your newsletter stats every week into a tracker sheet, tags each send, filters out bot clicks, and keeps a "Use when drafting" list of patterns your email agents read before writing. Messages you only on a clear change.
 **Schedule:** `CRON_TZ={{YOUR_TIMEZONE}} 37 14 * * 1` (Mondays, 2:37 PM)
 **Posts:** Only on a clear new finding.

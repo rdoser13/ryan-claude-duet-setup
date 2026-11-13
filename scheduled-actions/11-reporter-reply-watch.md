@@ -1,5 +1,6 @@
 # 11. Reporter reply watch
 
+**Level:** Advanced (extra paid tools, GitHub or a client setup)
 **What it does:** Watches for replies and bounces from every reporter you pitched, logs them in your tracker, and tells you. Read and log only.
 **Schedule:** `CRON_TZ={{YOUR_TIMEZONE}} 17 8-20/2 * * *` (every 2 hours, 8 AM to 8 PM)
 **Posts:** Only on a reply, bounce or "they left" auto-reply.

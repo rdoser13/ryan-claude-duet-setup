@@ -1,5 +1,6 @@
 # 15. Client social runway check
 
+**Level:** Advanced (extra paid tools, GitHub or a client setup)
 **What it does:** Once a month, gives exact dates when a client's scheduled posts run out, 30-day insights, and drafts the next batch if needed. Emails you. Nothing gets scheduled.
 **Schedule:** `CRON_TZ={{YOUR_TIMEZONE}} 13 13 1 * *` (the 1st of each month, 1:13 PM)
 **Posts:** Monthly, plus one email to you.

@@ -1,5 +1,6 @@
 # 23. Weekly meeting notes backup marker
 
+**Level:** Advanced (extra paid tools, GitHub or a client setup)
 **What it does:** Posts a marker every Friday. Your main chat has a thread copy any new meeting transcripts from your notetaker into a private repo, so you never lose them if you switch tools.
 **Schedule:** `CRON_TZ={{YOUR_TIMEZONE}} 43 16 * * 5` (Fridays, 4:43 PM)
 **Posts:** One marker line, handled quietly.

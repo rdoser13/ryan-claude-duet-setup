@@ -1,5 +1,6 @@
 # 18. Client brand mentions scan
 
+**Level:** Advanced (extra paid tools, GitHub or a client setup)
 **What it does:** Weekly scan of brand mentions, competitor news, new YouTube videos and Google results for a client's brand searches. Posts only what matters for the client's website content.
 **Schedule:** `CRON_TZ={{YOUR_TIMEZONE}} 0 8 * * 1` (Mondays, 8 AM)
 **Posts:** Only when something qualifies.

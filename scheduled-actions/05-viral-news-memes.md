@@ -1,5 +1,6 @@
 # 05. Viral news memes
 
+**Level:** Intermediate (one extra common tool or more tuning)
 **What it does:** Watches for news in your niche that's going viral with a general audience. When one hits, it makes 3 meme options on famous templates for you to review. Nothing posts.
 **Schedule:** `CRON_TZ={{YOUR_TIMEZONE}} 7 9,14 * * *` (daily, 9:07 AM and 2:07 PM)
 **Posts:** Only when a story qualifies, with 3 images attached.

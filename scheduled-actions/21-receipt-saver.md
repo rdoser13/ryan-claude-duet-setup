@@ -1,5 +1,6 @@
 # 21. Receipt saver
 
+**Level:** Beginner (core connectors only)
 **What it does:** Saves emailed receipts to your Drive receipts folder with a clean file name, then archives the email. Messages you only if something fails.
 **Schedule:** `CRON_TZ={{YOUR_TIMEZONE}} 43 19 * * *` (daily, 7:43 PM)
 **Posts:** Only on a failure.

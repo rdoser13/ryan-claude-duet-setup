@@ -1,5 +1,6 @@
 # 20. Scheduled task health check
 
+**Level:** Beginner (core connectors only)
 **What it does:** Looks at how every scheduled action ran in the past week and messages you only when one failed, stopped, or keeps running without producing anything useful. Never changes a routine itself.
 **Schedule:** `CRON_TZ={{YOUR_TIMEZONE}} 47 13 * * 1` (Mondays, 1:47 PM)
 **Posts:** Only when something needs you.

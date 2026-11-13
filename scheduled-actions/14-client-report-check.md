@@ -1,5 +1,6 @@
 # 14. Client report check
 
+**Level:** Advanced (extra paid tools, GitHub or a client setup)
 **What it does:** Confirms the client report page shows last week and the team email reached everyone. Messages you only if something's wrong.
 **Schedule:** `CRON_TZ={{YOUR_TIMEZONE}} 37 10 * * 1` (Mondays, 10:37 AM)
 **Posts:** Only when something's wrong.

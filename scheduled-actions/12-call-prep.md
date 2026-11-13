@@ -1,5 +1,6 @@
 # 12. Call prep the night before
 
+**Level:** Beginner (core connectors only)
 **What it does:** Makes a one-page private Doc for each client, coaching or sales call tomorrow, from the event, your emails, past call notes and their public profiles. Posts the links.
 **Schedule:** `CRON_TZ={{YOUR_TIMEZONE}} 43 18 * * 0-4` (Sunday to Thursday, 6:43 PM)
 **Posts:** Only on nights with calls to prep.

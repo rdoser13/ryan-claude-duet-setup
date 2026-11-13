@@ -1,5 +1,6 @@
 # 19. Friday week in review
 
+**Level:** Beginner (core connectors only)
 **What it does:** One short message on Friday afternoon: what shipped, what you still owe people, and next week's dated items.
 **Schedule:** `CRON_TZ={{YOUR_TIMEZONE}} 37 15 * * 5` (Fridays, 3:37 PM)
 **Posts:** Every Friday.

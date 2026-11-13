@@ -1,5 +1,6 @@
 # 22. Daily GitHub backup marker
 
+**Level:** Advanced (extra paid tools, GitHub or a client setup)
 **What it does:** Posts one marker line each night. Your main chat sees it and has a thread with GitHub access write the day's log and back up your setup to your private repo.
 **Schedule:** `CRON_TZ={{YOUR_TIMEZONE}} 17 20 * * *` (daily, 8:17 PM)
 **Posts:** One marker line. Your main chat handles it without bothering you.

@@ -1,12 +1,13 @@
 # 13. Client weekly report (advanced)
 
+**Level:** Advanced (extra paid tools, GitHub or a client setup)
 **What it does:** Every Monday at 8 AM, refreshes a client's weekly marketing report page and emails the client team a short note with the link. Holds and emails only you if anything goes wrong.
 **Schedule:** `0 13,14 * * 1` in UTC, with a time guard (see below)
 **Posts:** Emails, not chat posts.
 **Connectors:** Gmail, GitHub (a repo with the report code), the data sources your report pulls from, a place to host the page.
 **Cost:** Medium to high, depending on the report.
 **Lives in:** That client's channel.
-**Level:** Advanced. Needs a small code repo and a hosted page. Ask Claude to build those with you first.
+**Why advanced:** Needs a small code repo and a hosted page. Ask Claude to build those with you first.
 
 ## Why the time guard?
 

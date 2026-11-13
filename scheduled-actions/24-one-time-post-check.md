@@ -1,5 +1,6 @@
 # 24. One-time post check
 
+**Level:** Advanced (extra paid tools, GitHub or a client setup)
 **What it does:** Runs once, shortly after an important scheduled post goes out, and confirms it published. Tells you only if it failed.
 **Schedule:** One time, about 30 minutes after the post's scheduled time.
 **Posts:** A short line, or only on failure.

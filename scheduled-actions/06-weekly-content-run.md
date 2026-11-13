@@ -1,5 +1,6 @@
 # 06. Weekly content run (before the usage reset)
 
+**Level:** Intermediate (one extra common tool or more tuning)
 **What it does:** Uses spare weekly usage before your plan resets to build one private Doc of X drafts, keyword targets, posts to update and community-call ideas.
 **Schedule:** `CRON_TZ={{YOUR_TIMEZONE}} 47 16 * * {{DAY_BEFORE_RESET}}` (mine: Tuesdays at 4:47 PM, the afternoon before my reset)
 **Posts:** Once, with the Doc link.
